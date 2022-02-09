@@ -7,6 +7,17 @@
     padding: 0px;
     color: #000;
 }
+h1 {
+    font-size: 48px;
+    font-weight: 100;
+}
+.contents1 {
+    font-size: 20px;
+    font-weight: lighter;
+}
+.result {
+    font-size: 24px;
+}
 
 .intro_bg {
     background-image: url("image/intro.png");
@@ -51,4 +62,37 @@
 }
 .nav > li > a {
     color: #fff;
+}
+.intro_text {
+    width: 100%;
+    margin: 231px auto 231px auto; /* 상 우 하 좌 */
+    text-align: center;
+}
+
+.intro_text > h1,
+.intro_text > h4 {
+    color: #fff;
+}
+
+.amount {
+    position: relative;
+    top: -66px;
+    display: flex;
+    width: 1280px;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+    margin: auto;
+}
+.amount > li > div {
+    text-align: center;
+    margin-top: 37px;
+    height: 57px;
+}
+.amount > li:not(:last-child) > div {
+    /* 마지막에 있는 요소만 제외하고 적용 */
+    border-right: 1px solid #E1E1E1;
+}
+.amount > li {
+    flex: 1;
+    height: 132px;
 }
