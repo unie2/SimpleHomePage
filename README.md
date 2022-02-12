@@ -28,3 +28,15 @@
 
 --------------------
 
+### DAY03 (Third Commit)
+
+| 화면 | 
+|:--------|
+| ![DAY03](https://user-images.githubusercontent.com/54324782/153698325-aa8d629b-730e-4753-8524-313aed87e2fe.png)
+
+  - 시스템 주요 기능
+    > ABOUT 섹션 구성   
+    > 박스 형태 요소 내 li 태그 삽입 (총 3개)   
+    > li 태그 내 각 컨텐츠 수기 작성  
+    > style.css 코드 작성  
+    > 이미지 삽입
