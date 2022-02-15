@@ -61,3 +61,6 @@
     - FOOTER  
       > 영역 크기 및 각 위치 지정 (flex 3 : 9)  
       > 문구 색상 지정  
+    - 추가
+      > HOME, ABOUT, SERVICE, CONTACT 섹션 id 지정  
+      > navigation bar에서 네 가지의 항목 중 하나의 항목 클릭 시 해당 id가 있는 위치로 스크롤 이동  
