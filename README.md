@@ -64,3 +64,6 @@
     - 추가
       > HOME, ABOUT, SERVICE, CONTACT 섹션 id 지정  
       > navigation bar에서 네 가지의 항목 중 하나의 항목 클릭 시 해당 id가 있는 위치로 스크롤 이동  
+
+
+#### [출처: 타모디자인 유튜브](https://www.youtube.com/watch?v=vwk2IC0JPgY)
